@@ -16,10 +16,7 @@
 
 ## Documentation
 
-## Notes
 
-- [Codebook]()
-- [My Notebook]()
 
 
 
