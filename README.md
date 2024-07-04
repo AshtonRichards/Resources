@@ -1,4 +1,4 @@
-# Resources
+# TechEd Resources
 
 ### These resources include books, YouTubers, and documentation that has helped me during my coding journey. 
 
