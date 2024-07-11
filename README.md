@@ -7,6 +7,8 @@
 - [Coding Phase](https://www.youtube.com/@CodingPhase)
 - [RXWROB](https://www.youtube.com/@rwxrob)
 - [Eli The Computer Guy](https://www.youtube.com/@elithecomputerguy)
+- [Justin Sung](https://www.youtube.com/@JustinSung)
+- [KevITsupport](https://www.youtube.com/@KevtechITSupport)
 
 ## Books
 
